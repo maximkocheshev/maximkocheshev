@@ -10,6 +10,10 @@
 | **[Minishell](https://github.com/maximkocheshev/minishell)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/minishell"/> | **[Exam Rank 04](https://github.com/maximkocheshev/examrank-04)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/Exam Rank 04"/> |
 | **[NetPractice](https://github.com/maximkocheshev/NetPractice)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/NetPractice"/> | **Cub3D** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cub3d"/> |
 | **CPP Module 00** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-00"/> | **CPP Module 01** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-01"/> |
+| **CPP Module 02** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-02"/> | **CPP Module 03** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-03"/> |
+| **CPP Module 04** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-04"/> | **CPP Module 05** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-05"/> |
+| **CPP Module 06** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-06"/> | **CPP Module 07** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-07"/> |
+| **CPP Module 08** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-08"/> |
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximkocheshev)  | ![](https://komarev.com/ghpvc/?username=maximkocheshev) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximkocheshev&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
 | ------------ | ------------ |
