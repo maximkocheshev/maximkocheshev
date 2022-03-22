@@ -9,7 +9,7 @@
 | **[Exam Rank 03](https://github.com/maximkocheshev/examrank-03)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/Exam Rank 03"/> | **[Philosophers](https://github.com/maximkocheshev/philosophers)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/Philosophers"/> |
 | **[Minishell](https://github.com/maximkocheshev/minishell)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/minishell"/> | **[Exam Rank 04](https://github.com/maximkocheshev/examrank-04)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/Exam Rank 04"/> |
 | **[NetPractice](https://github.com/maximkocheshev/NetPractice)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/NetPractice"/> | **Cub3D** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cub3d"/> |
-| **CPP Modules** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-08"/> |
+| **CPP Module 08** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-08"/> |
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximkocheshev)  | ![](https://komarev.com/ghpvc/?username=maximkocheshev) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximkocheshev&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
 | ------------ | ------------ |
