@@ -11,7 +11,7 @@
 | **[NetPractice](https://github.com/maximkocheshev/NetPractice)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/NetPractice"/> | **Cub3D** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cub3d"/> |
 | **[CPP Module 08](https://github.com/maximkocheshev/CPP_Modules)** | <img src="https://badge42.herokuapp.com/api/project/rbiodies/cpp-module-08"/> |
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximkocheshev)  | ![](https://komarev.com/ghpvc/?username=maximkocheshev) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximkocheshev&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbiodies)  | ![](https://komarev.com/ghpvc/?username=rbiodies) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbiodies&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
 | ------------ | ------------ |
 
 ### 📧 Email: kocheshev@yandex.ru
