@@ -3,7 +3,7 @@
 
 | **[Libft](https://github.com/rbiodies/libft)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2364362"/> | **[Get Next Line](https://github.com/rbiodies/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380194"/> |
 | :------------: | :------------: | :------------: | :------------: |
-| **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380195"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2398619"/> |
+| **[Born2beRoot]** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380195"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2398619"/> |
 | **[Printf](https://github.com/rbiodies/ft_printf)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380197"/> | **[Pipex](https://github.com/rbiodies/pipex)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2400409"/> | 
 | **[Push_swap](https://github.com/rbiodies/push_swap)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2401452"/> | **[So Long](https://github.com/rbiodies/so_long)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2402653"/> | 
 | **[Exam Rank 03](https://github.com/rbiodies/examrank-03)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422780"/> | **[Philosophers](https://github.com/rbiodies/philosophers)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422781"/> |
