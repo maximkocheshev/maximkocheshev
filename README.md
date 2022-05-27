@@ -13,7 +13,4 @@
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbiodies) | ![](https://komarev.com/ghpvc/?username=rbiodies) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbiodies&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
 | ------------ | ------------ |
-### :trophy: [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rbiodies)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rbiodies)](https://github.com/rbiodies/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbiodies)](https://git.io/streak-stats)
 ### <img height="20" width="20" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /> Telegram: https://t.me/rbiodies
