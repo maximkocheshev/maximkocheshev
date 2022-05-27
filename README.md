@@ -13,4 +13,4 @@
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbiodies) | ![](https://komarev.com/ghpvc/?username=rbiodies) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbiodies&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
 | ------------ | ------------ |
-### <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /> Telegram: https://t.me/rbiodies
+### <img height="20" width="20" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /> Telegram: https://t.me/rbiodies
