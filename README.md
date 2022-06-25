@@ -11,9 +11,8 @@
 | **[CPP Module 08](https://github.com/rbiodies/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java Day 04](https://github.com/rbiodies/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2565748"/> |
 | **[Exam Rank 05](https://github.com/rbiodies/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/rbiodies/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbiodies&show_icons=true&locale=en&layout=compact" alt="rbiodies" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbiodies&show_icons=true&locale=en" alt="rbiodies" /></p>
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbiodies&show_icons=true&locale=en&layout=compact" alt="rbiodies" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbiodies&show_icons=true&locale=en" alt="rbiodies" /></p> |
+| :------------: | :------------: |
 
 <h3 align="left">:file_folder: Profile views:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbiodies&label=Profile%20views&color=0e75b6&style=flat" alt="rbiodies" /> </p>
