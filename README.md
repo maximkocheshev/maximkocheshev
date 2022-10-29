@@ -10,6 +10,7 @@
 | **[Exam Rank 04](https://github.com/rbiodies/examrank-04)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2519789"/> | **[Cub3D](https://github.com/rbiodies/cub3d)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2545496"/> |
 | **[CPP Module 08](https://github.com/rbiodies/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java](https://github.com/rbiodies/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2563136"/> |
 | **[Exam Rank 05](https://github.com/rbiodies/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/rbiodies/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
+| **[Exam Rank 06](https://github.com/rbiodies/examrank-06)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2217808"/> |
 
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbiodies&show_icons=true&locale=en&layout=compact" alt="rbiodies" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbiodies&show_icons=true&locale=en" alt="rbiodies" /></p> |
 | :------------: | :------------: |
