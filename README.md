@@ -11,7 +11,7 @@
 | **[CPP Module 08](https://github.com/rbiodies/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java](https://github.com/rbiodies/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2563136"/> |
 | **[Exam Rank 05](https://github.com/rbiodies/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/rbiodies/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
 | **[Exam Rank 06](https://github.com/rbiodies/Exam_Rank-06)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2217808"/> | **[FWA](https://github.com/rbiodies/FWA)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2986018"/>
-| **[Cinema](https://github.com/rbiodies/Cinema)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/3064960"/>
+| **[Cinema](https://github.com/rbiodies/Cinema)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/3064960"/> | **[Internship I]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2881202"/>
 
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbiodies&show_icons=true&locale=en&layout=compact" alt="rbiodies" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbiodies&show_icons=true&locale=en" alt="rbiodies" /></p> |
 | :------------: | :------------: |
